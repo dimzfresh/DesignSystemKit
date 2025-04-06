@@ -1,3 +1,3 @@
 # DesignSystemKit
 
-Данный пакет предоставляет компоненты дизайн системы
+SwiftUI design system components
