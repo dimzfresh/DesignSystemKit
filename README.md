@@ -33,20 +33,13 @@ DesignSystemKit is a Swift Package Manager library that provides a complete desi
 
 ## Installation
 
-### Swift Package Manager
+Add DesignSystemKit to your Swift Package Manager dependencies:
 
-Add DesignSystemKit to your project using Swift Package Manager:
-
-1. In Xcode, go to **File** → **Add Package Dependencies**
-2. Enter the repository URL: `https://github.com/dimzfresh/DesignSystemKit.git`
-3. Select the version you want to use
-4. Click **Add Package**
-
-### Manual Installation
-
-1. Clone the repository
-2. Add the `Sources/DesignSystemKit` folder to your project
-3. Make sure to include all required dependencies
+```swift
+dependencies: [
+    .package(url: "https://github.com/dimzfresh/DesignSystemKit.git", from: "1.0.0")
+]
+```
 
 ## Features
 
